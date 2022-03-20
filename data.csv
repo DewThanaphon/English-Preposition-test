@@ -1,0 +1,391 @@
+word,type,answer
+demand_,noun,for
+need_,noun,for
+reason_,noun,for
+advantage_,noun,of
+disadvantage_,noun,of
+There is/are advantage_,phrase,in or to
+cause_,noun,of
+picture_,noun,of
+photo_,noun,of
+photograph_,noun,of
+map_,noun,of
+plan_,noun,of
+drawing_,noun,of
+increase_,noun,in
+decrease_,noun,in
+rise_,noun,in
+fall_,noun,in
+damage_,noun,to
+invitation_(party),noun,to
+solution_(problem),noun,to
+key_(door),noun,to
+answer_(question),noun,to
+reply_(letter),noun,to
+reaction_,noun,to
+attitude_,noun,to
+relationship_,noun,with or between
+connection_,noun,with or between
+contact_,noun,with or between
+difference_,noun,between
+nice_(somebody),adj,of or to
+kind_(somebody),adj,of or to
+good_(somebody),adj,of or to
+generous_(somebody),adj,of or to
+polite_(somebody),adj,of or to
+stupid_(somebody),adj,of
+silly_(somebody),adj,of
+rude_(somebody),adj,to
+friendly_(somebody),adj,to
+cruel_(somebody),adj,to
+angry_(something),adj,about
+annoyed_(something),adj,about
+furious_(something),adj,about
+upset_(something),adj,about
+annoyed_(somebody)_(doing something),adj,with
+furious_(somebody)_(doing something),adj,with
+upset_(somebody)_(doing something),adj,with
+angry_(somebody)_(doing something),adj,with
+excited_(situation),adj,about
+worried_(situation),adj,about
+nervous_(situation),adj,about
+happy_(situation),adj,about
+pleased_(something you receive or result),adj,with
+satisfied_(something you receive or result),adj,with
+happy_(something you receive or result),adj,with
+delighted_(something you receive or result),adj,with
+disappointed_(something you receive or result),adj,with
+surprised_(something),adj,at or by
+shocked_(something),adj,at or by
+amazed_(something),adj,at or by
+astonished_(something),adj,at or by
+upset_(something),adj,at or by
+impressed_(somebody or something),adj,with or by
+fed up_(something),adj,with
+bored_(something),adj,with
+tired_(something),adj,of
+sick_(something),adj,of
+sorry_(situation or something that happened),adj,about
+sorry_(something you did),adj,for or about
+feel sorry_(somebody who is in a bad situation),adj,for
+be sorry_(somebody who is in a bad situation),adj,for
+afraid_,adj,of
+frightened_,adj,of
+terrified_,adj,of
+scared_,adj,of
+fond_,adj,of
+proud_,adj,of
+ashamed_,adj,of
+jealous_,adj,of
+envious_,adj,of
+suspicious_,adj,of
+critical_,adj,of
+tolerant_,adj,of
+aware_,adj,of
+conscious_,adj,of
+capable_,adj,of
+incapable_,adj,of
+full_,adj,of
+short_,adj,of
+typical_,adj,of
+certain_,adj,of or about
+sure_,adj,of or about
+good_,adj,at
+bad_,adj,at
+brilliant_,adj,at
+better_,adj,at
+hopeless_,adj,at
+married_,adj,to
+engaged_,adj,to
+similar_,adj,to
+different_,adj,from or to
+interested_,adj,in
+keen_,adj,on
+dependent_,adj,on
+crowded_,adj,with
+famous_,adj,for
+responsible_,adj,for
+talk_(somebody),v,to
+speak_(somebody),v,to
+listen_,v,to
+apologise_(somebody for…),v,to
+explain(somebody)_(somebody),v,to
+explain_(somebody what/how/why),v,to
+describe_(somebody what/how/why),v,to
+phone_(somebody),v,-
+call_(somebody),v,-
+email_(somebody),v,-
+text_(somebody),v,-
+answer_(somebody or something),v,-
+ask_(somebody),v,-
+thank_(somebody),v,-
+look_,v,at
+stare_,v,at
+glance_,v,at
+have a look_,v,at
+take a look_,v,at
+laugh_,v,at
+aim(something)_,v,at
+point(something)_,v,at
+shoot(gun)_,v,at
+fire(gun)_,v,at
+shout_(somebody) when you are angry,v,at
+shout_(somebody) when you want to the other hear you,v,to
+throw(something)_(somebody or something) hit,v,at
+throw(something)_(somebody) give,v,to
+talk_,v,about
+read_,v,about
+know_,v,about
+tell(somebody)_,v,about
+have a discussion_(something),v,about
+discuss_(something),v,-
+ask(somebody)_,v,for
+apply_(person or company),v,to
+apply_(job),v,for
+wait_,v,for
+search(somebody or something)_,v,for
+leave(place)_(another place),v,for
+care_(somebody or something) that is important,v,about
+care_(somebody or something),v,for
+take care_,v,of
+look_ = search for or try to find,v,for
+look_ = that care of,v,after
+hear_ = be told about something,v,about
+hear_ = know that somebody/something exists,v,of
+hear_ = be in contact with somebody,v,from
+think_(something) = consider,v,about
+think_(something) = come in your brain,v,of
+think_ = opinion or ask,v,of
+think_,v,of or about
+dream_ (when sleeping),v,about
+dream_ = imagine,v,of or about
+wouldn’t dream_,v,of
+complain_(somebody)_,v,to and about
+complain_(pain or illness),v,of
+remind(somebody)_ = tell somebody not to forget,v,about
+remind(somebody)_ = cause somebody to remember,v,of
+"warn(somebody)_(person or thing which is bad, damage, unusual)",v,about
+"warn(somebody)_(danger, something bad which might happen later)",v,about or of
+accuse(somebody)_,v,of
+suspect(somebody)_,v,of
+approve_,v,of
+disapprove_,v,of
+die_(illness),v,of or from
+consist_,v,of
+pay(somebody)_,v,for
+thank(somebody)_,v,for
+forgive(somebody)_,v,for
+apologise_(somebody)_,v,for
+blame(somebody or something)_,v,for
+blame(problem)_,v,on
+suffer_(illness),v,from
+protect(somebody or something)_,v,from
+depend_,v,on
+rely_,v,on
+live_(money or food),v,on
+congratulate(somebody)_,v,on
+compliment(somebody)_,v,on
+believe_,v,in
+specialise_,v,in
+succeed_,v,in
+break_,v,into
+crash_,v,into
+drive_,v,into
+bump_,v,into
+run_,v,into
+divide_(something),v,into
+cut_(something),v,into
+split_(something),v,into
+translate(book)_(one language)_(another),v,from and into
+collide_,v,with
+fill(something)_,v,with
+provide(somebody)_,v,with
+supply(somebody)_,v,with
+happen_,v,to
+"invite(someone)_(party, wedding)",v,to
+prefer(thing or person)_(another),v,to
+concentrate_,v,on
+insist_,v,on
+spend(money)_,v,on
+_five o’clock,prep,at
+_11.45,prep,at
+_midnight,prep,at
+_lunchtime,prep,at
+_sunset,prep,at
+_Friday,prep,on
+_16 May 2009,prep,on
+_Christmas Day,prep,on
+_my birthday,prep,on
+_October,prep,in
+_1998,prep,in
+_the eighteenth century,prep,in
+_the past,prep,in
+_winter,prep,in
+_the 1990s,prep,in
+_the Middle Ages,prep,in
+_the future,prep,in
+_night,prep,at
+_the weekend,prep,at
+_Christmas,prep,at
+_the moment,prep,at
+_present,prep,at
+_the same time,prep,at
+_the morning,prep,in
+_the afternoon,prep,in
+_the evening,prep,in
+(will)_a few minutes,prep,in
+(will)_six months,prep,in
+_a room,prep,in
+_a building,prep,in
+_a box,prep,in
+_a garden,prep,in
+_a town,prep,in
+_a country,prep,in
+_the city,prep,in
+_a pool,prep,in
+_the sea,prep,in
+_the river,prep,in
+_the bus stop,prep,at
+_the door,prep,at
+_the roundabout,prep,at
+_the reception,prep,at
+_the nose,prep,on
+_a page,prep,on
+_an island,prep,on
+_a line,prep,in
+_a row,prep,in
+_a queue,prep,in
+_bad,prep,in
+_the sky,prep,in
+_the world,prep,in
+_an office,prep,in
+_a department,prep,in
+_a book,prep,in
+_a paper (newspaper),prep,in
+_a magazine,prep,in
+_a letter,prep,in
+_a picture,prep,in
+_a photo,prep,in
+_a photograph,prep,in
+_the left,prep,on
+_the right,prep,on
+_the … floor,prep,on
+_a map,prep,on
+_a menu,prep,on
+_a list,prep,on
+_a farm,prep,on
+_the left-hand side,prep,on
+_the right-hand side,prep,on
+_the top,prep,at
+_the bottom,prep,at
+_the end,prep,at
+_the front of a car,prep,in
+_the back of a car,prep,in
+_the front of a building,prep,at
+_the back of a building,prep,at
+_the front of a theatre,prep,at
+_the back of a theatre,prep,at
+_the front of a group of people,prep,at
+_the back of a group of people,prep,at
+_the front of a letter,prep,on
+_the back of a letter,prep,on
+_the front of a piece of paper,prep,on
+_the back of a piece of paper,prep,on
+_the corner of a room,prep,in
+_the corner of a street,prep,at
+_hospital,prep,in
+_prison,prep,in
+_jail,prep,in
+_work,prep,at
+_school,prep,at
+_university,prep,at
+_college,prep,at
+_home,prep,at
+_a party,prep,at
+_a concert,prep,at
+_a conference,prep,at
+_a meeting,prep,at
+_the wedding,prep,at
+_somebody’s house,prep,at
+_the station,prep,at
+_the airport,prep,at
+_a hotel,prep,at
+room_a hotel,prep,in
+_a bus,prep,on
+_a train,prep,on
+_a plane,prep,on
+_a ship,prep,on
+_a bike,prep,on
+_a motorbike,prep,on
+_a horse,prep,on
+_a car,prep,in
+_a taxi,prep,in
+go_China,prep,to
+go back_Italy,prep,to
+return_London,prep,to
+welcome somebody_a place,prep,to
+go_bad,prep,to
+go_the bank,prep,to
+go_a concert,prep,to
+come_my house,prep,to
+be taken_hospital,prep,to
+be sent_prison,prep,to
+drive_the airport,prep,to
+get_a place,prep,to
+arrive_a town,prep,in
+arrive_city,prep,in
+arrive_country,prep,in
+arrive_the hotel,prep,at
+arrive_the airport,prep,at
+arrive_the party,prep,at
+go_home,prep,-
+come_home,prep,-
+get_home,prep,-
+arrive_home,prep,-
+on the way_home,prep,-
+go_the room,prep,into
+get_the room,prep,into
+get_a bus,prep,on or off
+get_a train,prep,on or off
+get_a plane,prep,on or off
+_the rain,prep,in
+_the sun,prep,in
+_the shade,prep,in
+_the dark,prep,in
+_bad weather,prep,in
+(write)_ink,prep,in
+(write)_pen,prep,in
+(write)_pencil,prep,in
+(write)_words,prep,in
+(write)_figures,prep,in
+(write)_capital letters,prep,in
+(be or fall)_love(with somebody),prep,in
+_my opinion,prep,in
+_TV,prep,on
+_the radio,prep,on
+_the phone,prep,on
+(be or go)_strike,prep,on
+(be or go)_a diet,prep,on
+(be)_fire,prep,on
+_the whole,prep,on
+_purpose,prep,on
+_holiday,prep,on
+_a trip,prep,on
+_bussiness,prep,on
+_a tour,prep,on
+_a cruise,prep,on
+_the age of..,prep,at
+_120 miles an hour,prep,at
+_100 degrees,prep,at
+sent something_post,prep,by
+do something_hand,prep,by
+contact somebody_phone,prep,by
+pay_credit card,prep,by
+pay_cash,prep,in or -
+come_car,prep,by
+come_train,prep,by
+come_bus,prep,by
+come_foot,prep,on
+come_my car,prep,in
+come_a train,prep,on
+come_a bus,prep,on
